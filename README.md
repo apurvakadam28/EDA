@@ -1,2 +1,1 @@
-# EDA 
-# Diwali Sales Data Exploratory data analysis
+# Diwali Sales Data (Exploratory data analysis)
